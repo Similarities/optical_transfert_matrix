@@ -1,4 +1,4 @@
-# optical_transfert_matrix
+# optical - ray-anaylsis - optical_transfer_matrix
 calculate_lens_systems
 
 
